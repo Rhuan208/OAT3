@@ -1,0 +1,7 @@
+C:\Users\Rhuan\source\repos\Oat3\Oat3\obj\Debug\Oat3.csproj.AssemblyReference.cache
+C:\Users\Rhuan\source\repos\Oat3\Oat3\obj\Debug\Oat3.csproj.CoreCompileInputs.cache
+C:\Users\Rhuan\source\repos\Oat3\Oat3\bin\Debug\Oat3.exe.config
+C:\Users\Rhuan\source\repos\Oat3\Oat3\bin\Debug\Oat3.exe
+C:\Users\Rhuan\source\repos\Oat3\Oat3\bin\Debug\Oat3.pdb
+C:\Users\Rhuan\source\repos\Oat3\Oat3\obj\Debug\Oat3.exe
+C:\Users\Rhuan\source\repos\Oat3\Oat3\obj\Debug\Oat3.pdb

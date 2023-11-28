@@ -1,0 +1,2 @@
+C:\Users\Rhuan\OneDrive\Documentos\GitHub\OAT3\Oat3\Oat3\obj\Debug\Oat3.csproj.AssemblyReference.cache
+C:\Users\Rhuan\OneDrive\Documentos\GitHub\OAT3\Oat3\Oat3\obj\Debug\Oat3.csproj.CoreCompileInputs.cache
